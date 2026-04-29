@@ -1,13 +1,5 @@
-CM LPDA - Designed from equations (tau=0.915, sigma=0.169)
-CM F=600MHz, BW=40% (480–720 MHz)
-CM  Half-lengths (Ln/2)
-CM  Spacing dn = 2*sigma*l(n-1)
-CM  Positions (small → large direction)
-CM  Dipoles (centered)
-CM  Feed at smallest element
-CM  Transmission line (alternating phase → IMPORTANT)
-CM  Frequency
-CM  Radiation pattern
+CM LPDA - Parâmetros (tau=0.915, sigma=0.169)
+CM F = 600 MHz, BW = 40% (480–720 MHz)
 CE
 SY R=0.006
 SY L1=0.167200 ,L2=0.153000 ,L3=0.140000 ,L4=0.128000 ,L5=0.117000 ,L6=0.107000
