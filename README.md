@@ -77,9 +77,17 @@ As simulações podem ser reproduzidas executando esses arquivos no ambiente 4NE
 
 ---
 
+## Software Utilizado
+
+As simulações foram realizadas utilizando o software 4NEC2 (NEC based antenna modeler and optimizer).
+
+Disponível em: http://www.qsl.net/4nec2/
+
+---
+
 ## Citação
 
-Caso este repositório contribua para seu trabalho, recomenda-se citar o estudo associado e/ou o conjunto de dados (DOI, se disponível).
+[1] F. Pena, *rf-antenna-simulations: Primeira versão da simulação*. Zenodo, Apr. 2026. [https://doi.org/10.5281/zenodo.19648173](https://doi.org/10.5281/zenodo.19648173)
 
 ---
 
